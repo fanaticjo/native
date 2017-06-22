@@ -1,0 +1,1 @@
+This is Buffer example.I use here File and Buffer as input and output source 
