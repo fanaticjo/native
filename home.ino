@@ -2,7 +2,7 @@
  *  This project uses a arduino uno ,pir sensor ,2 switch relay ,jumper wires,breadboard,led lights,a keypad(4*4),Bulb,Servo Motor and this project uses the keypad library file which you need to download from 
  *  https://github.com/Chris--A/Keypad and then add it to the library .
  *  you can change the keypad confirguation of the pins but the should be connected in the way they are written.
- *  we have commenetd the servo motor as different servo motor has different confirguation so you need to check it adn then use the servo motor .
+ *  we have commenetd the servo motor as different servo motor has different confirguation so you need to check it and then use the servo motor .
  *  You can also use the analog pins for digital communication(use only led) if you feel short of gpi pins.
  *  
  */
